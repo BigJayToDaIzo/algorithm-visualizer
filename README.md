@@ -1,3 +1,35 @@
+# Search Algorithm Visualizer
+
+Personal Project to Showcase React/UI Skillset
+
+# Description
+
+The first commit of this project is a base tutorial I found on YouTube [here](https://www.youtube.com/watch?v=msttfIHHkak&list=RDCMUCaO6VoaYJv4kS-TQO_M-N_g&start_radio=1&rv=msttfIHHkak&t=3299). I will expand greatly upon this tutorial to demonstrate to technical interviewers that I have strong React skills and a firm understanding of the various search algorithms. The tutorial did not use TDD so I will need to write the code to cover existing lines, then I will implement Test Driven Development best practices as I progress.
+
+# Badges
+
+Badges will be set up using [Shields.IO](https://shields.io)
+
+# Visuals
+
+Placeholder for screen captures of application.
+
+# Installation
+
+Placeholder for install instructions.
+
+# Usage
+
+Ideally this section will be unnecessary but adding placeholder in case it turns out to be necessary.
+
+# Roadmap
+
+See [CHANGELOG.md](./CHANGELOG.md) for Roadman information.
+
+# Authors and Acknowledgement
+
+Big thanks to Clément Mihailescu over on [his YouTube](https://www.youtube.com/@clem) for providing such a great idea and base for a tool to showcase my coding skills!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
