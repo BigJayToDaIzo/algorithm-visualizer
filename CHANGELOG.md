@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add Header Banner to select algorithm, visualize selected algorithm, clear board, clear walls/weights,
   change visualization speed, and add a sub banner as a legend and to highlight which algorithm is selected
+- Add isWeighted/weight prop to Node component
 - Add second search agorithm from algorithm wishlist (A\*, Greedy Best-first, Swarm, Convergent Swarm,
   Bidirectional Swarm, Breadth First, Depth First)
 

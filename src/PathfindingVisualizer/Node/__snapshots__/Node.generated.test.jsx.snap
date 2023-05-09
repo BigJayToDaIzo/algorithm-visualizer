@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Node> should render component 1`] = `
+<div
+  className="node "
+  id="node-undefined-undefined"
+  onMouseDown={[Function]}
+  onMouseEnter={[Function]}
+  onMouseUp={[Function]}
+/>
+`;

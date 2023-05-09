@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PathfindingVisualizer> should render component 1`] = `
+Array [
+  <button
+    onClick={[Function]}
+  >
+    Visualize Dijkstra's Algorithm
+  </button>,
+  <div
+    className="grid"
+  >
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+    <div />
+  </div>,
+]
+`;
